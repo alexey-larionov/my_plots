@@ -1,4 +1,0 @@
-git config user.name
-git config user.email
-
-git commit --amend --reset-author
